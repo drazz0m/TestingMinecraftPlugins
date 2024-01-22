@@ -48,6 +48,7 @@ The *Minecraft Plugins Testing Tool*, developed by *drazz*, is a Python program 
 ## Disclaimer
 This tool is provided under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). Users are encouraged to review and adhere to the license terms. The tool is not affiliated with Mojang or Minecraft.
 
+---
 
 # RU
 

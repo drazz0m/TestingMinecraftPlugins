@@ -1,0 +1,324 @@
+{
+  "cores": [
+    {
+      "name": "CraftBukkit",
+      "versions": [
+        {
+          "version": "1.8",
+          "downloadLink": "https://cdn.getbukkit.org/craftbukkit/craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar"
+        },
+        {
+          "version": "1.9",
+          "downloadLink": "https://cdn.getbukkit.org/craftbukkit/craftbukkit-1.9-R0.1-SNAPSHOT-latest.jar"
+        },
+        {
+          "version": "1.10",
+          "downloadLink": "https://cdn.getbukkit.org/craftbukkit/craftbukkit-1.10-R0.1-SNAPSHOT-latest.jar"
+        },
+        {
+          "version": "1.11",
+          "downloadLink": "https://cdn.getbukkit.org/craftbukkit/craftbukkit-1.11.jar"
+        },
+        {
+          "version": "1.12.2",
+          "downloadLink": "https://cdn.getbukkit.org/craftbukkit/craftbukkit-1.12.2.jar"
+        },
+        {
+          "version": "1.13",
+          "downloadLink": "https://cdn.getbukkit.org/craftbukkit/craftbukkit-1.13.jar"
+        },
+        {
+          "version": "1.14",
+          "downloadLink": "https://cdn.getbukkit.org/craftbukkit/craftbukkit-1.14-R0.1-SNAPSHOT.jar"
+        },
+        {
+          "version": "1.14.4",
+          "downloadLink": "https://cdn.getbukkit.org/craftbukkit/craftbukkit-1.14.4-R0.1-SNAPSHOT.jar"
+        },
+        {
+          "version": "1.15",
+          "downloadLink": "https://cdn.getbukkit.org/craftbukkit/craftbukkit-1.15-R0.1-SNAPSHOT.jar"
+        },
+        {
+          "version": "1.16.5",
+          "downloadLink": "https://cdn.getbukkit.org/craftbukkit/craftbukkit-1.16.5.jar"
+        },
+        {
+          "version": "1.17",
+          "downloadLink": "https://download.getbukkit.org/craftbukkit/craftbukkit-1.17.jar"
+        },
+        {
+          "version": "1.18",
+          "downloadLink": "https://download.getbukkit.org/craftbukkit/craftbukkit-1.18.jar"
+        },
+        {
+          "version": "1.19",
+          "downloadLink": "https://download.getbukkit.org/craftbukkit/craftbukkit-1.19.jar"
+        },
+        {
+          "version": "1.19.4",
+          "downloadLink": "https://download.getbukkit.org/craftbukkit/craftbukkit-1.19.4.jar"
+        },
+        {
+          "version": "1.20.1",
+          "downloadLink": "https://download.getbukkit.org/craftbukkit/craftbukkit-1.20.1.jar"
+        },
+        {
+          "version": "1.20.2",
+          "downloadLink": "https://download.getbukkit.org/craftbukkit/craftbukkit-1.20.2.jar"
+        },
+        {
+          "version": "1.20.4",
+          "downloadLink": "https://download.getbukkit.org/craftbukkit/craftbukkit-1.20.4.jar"
+        }
+      ]
+    },
+    {
+      "name": "Spigot",
+      "versions": [
+        {
+          "version": "1.8",
+          "downloadLink": "https://cdn.getbukkit.org/spigot/spigot-1.8-R0.1-SNAPSHOT-latest.jar"
+        },
+        {
+          "version": "1.9",
+          "downloadLink": "https://cdn.getbukkit.org/spigot/spigot-1.9-R0.1-SNAPSHOT-latest.jar"
+        },
+        {
+          "version": "1.10",
+          "downloadLink": "https://cdn.getbukkit.org/spigot/spigot-1.10-R0.1-SNAPSHOT-latest.jar"
+        },
+        {
+          "version": "1.11",
+          "downloadLink": "https://cdn.getbukkit.org/spigot/spigot-1.11.jar"
+        },
+        {
+          "version": "1.12.2",
+          "downloadLink": "https://cdn.getbukkit.org/spigot/spigot-1.12.2.jar"
+        },
+        {
+          "version": "1.13",
+          "downloadLink": "https://cdn.getbukkit.org/spigot/spigot-1.13.jar"
+        },
+        {
+          "version": "1.14",
+          "downloadLink": "https://cdn.getbukkit.org/spigot/spigot-1.14.jar"
+        },
+        {
+          "version": "1.14.4",
+          "downloadLink": "https://cdn.getbukkit.org/spigot/spigot-1.14.4.jar"
+        },
+        {
+          "version": "1.15",
+          "downloadLink": "https://cdn.getbukkit.org/spigot/spigot-1.15.jar"
+        },
+        {
+          "version": "1.16.5",
+          "downloadLink": "https://cdn.getbukkit.org/spigot/spigot-1.16.5.jar"
+        },
+        {
+          "version": "1.17",
+          "downloadLink": "https://download.getbukkit.org/spigot/spigot-1.17.jar"
+        },
+        {
+          "version": "1.18",
+          "downloadLink": "https://download.getbukkit.org/spigot/spigot-1.18.jar"
+        },
+        {
+          "version": "1.19",
+          "downloadLink": "https://download.getbukkit.org/spigot/spigot-1.19.jar"
+        },
+        {
+          "version": "1.19.4",
+          "downloadLink": "https://download.getbukkit.org/spigot/spigot-1.19.4.jar"
+        },
+        {
+          "version": "1.20.1",
+          "downloadLink": "https://download.getbukkit.org/spigot/spigot-1.20.1.jar"
+        },
+        {
+          "version": "1.20.2",
+          "downloadLink": "https://download.getbukkit.org/spigot/spigot-1.20.2.jar"
+        },
+        {
+          "version": "1.20.4",
+          "downloadLink": "https://download.getbukkit.org/spigot/spigot-1.20.4.jar"
+        }
+      ]
+    },
+    {
+      "name": "Paper",
+      "versions": [
+        {
+          "version": "1.12.2",
+          "downloadLink": "https://api.papermc.io/v2/projects/paper/versions/1.12.2/builds/1620/downloads/paper-1.12.2-1620.jar"
+        },
+        {
+          "version": "1.13",
+          "downloadLink": "https://api.papermc.io/v2/projects/paper/versions/1.13/builds/173/downloads/paper-1.13-173.jar"
+        },
+        {
+          "version": "1.14",
+          "downloadLink": "https://api.papermc.io/v2/projects/paper/versions/1.14/builds/17/downloads/paper-1.14-17.jar"
+        },
+        {
+          "version": "1.14.4",
+          "downloadLink": "https://api.papermc.io/v2/projects/paper/versions/1.14.4/builds/245/downloads/paper-1.14.4-245.jar"
+        },
+        {
+          "version": "1.15",
+          "downloadLink": "https://api.papermc.io/v2/projects/paper/versions/1.15/builds/21/downloads/paper-1.15-21.jar"
+        },
+        {
+          "version": "1.16.5",
+          "downloadLink": "https://api.papermc.io/v2/projects/paper/versions/1.16.5/builds/794/downloads/paper-1.16.5-794.jar"
+        },
+        {
+          "version": "1.17",
+          "downloadLink": "https://api.papermc.io/v2/projects/paper/versions/1.17/builds/79/downloads/paper-1.17-79.jar"
+        },
+        {
+          "version": "1.18",
+          "downloadLink": "https://api.papermc.io/v2/projects/paper/versions/1.18/builds/66/downloads/paper-1.18-66.jar"
+        },
+        {
+          "version": "1.19",
+          "downloadLink": "https://api.papermc.io/v2/projects/paper/versions/1.19/builds/81/downloads/paper-1.19-81.jar"
+        },
+        {
+          "version": "1.19.2",
+          "downloadLink": "https://api.papermc.io/v2/projects/paper/versions/1.19.2/builds/307/downloads/paper-1.19.2-307.jar"
+        },
+        {
+          "version": "1.20",
+          "downloadLink": "https://api.papermc.io/v2/projects/paper/versions/1.20/builds/17/downloads/paper-1.20-17.jar"
+        },
+        {
+          "version": "1.20.1",
+          "downloadLink": "https://api.papermc.io/v2/projects/paper/versions/1.20.1/builds/196/downloads/paper-1.20.1-196.jar"
+        },
+        {
+          "version": "1.20.2",
+          "downloadLink": "https://api.papermc.io/v2/projects/paper/versions/1.20.2/builds/318/downloads/paper-1.20.2-318.jar"
+        },
+        {
+          "version": "1.20.4",
+          "downloadLink": "https://api.papermc.io/v2/projects/paper/versions/1.20.4/builds/393/downloads/paper-1.20.4-393.jar"
+        }
+      ]
+    },
+    {
+      "name": "Purpur",
+      "versions": [
+        {
+          "version": "1.16.5",
+          "downloadLink": "https://api.purpurmc.org/v2/purpur/1.16.5/1171/download"
+        },
+        {
+          "version": "1.17.1",
+          "downloadLink": "https://api.purpurmc.org/v2/purpur/1.17.1/1428/download"
+        },
+        {
+          "version": "1.18.2",
+          "downloadLink": "https://api.purpurmc.org/v2/purpur/1.18.2/1632/download"
+        },
+        {
+          "version": "1.19.4",
+          "downloadLink": "https://api.purpurmc.org/v2/purpur/1.19.4/1985/download"
+        },
+        {
+          "version": "1.20.4",
+          "downloadLink": "https://api.purpurmc.org/v2/purpur/1.20.4/2128/download"
+        }
+      ]
+    },
+    {
+      "name": "PufferFish",
+      "versions": [
+        {
+          "version": "1.17.1",
+          "downloadLink": "https://ci.pufferfish.host/job/Pufferfish-1.17/22/artifact/build/libs/Pufferfish-1.17.1-R0.1-SNAPSHOT.jar"
+        },
+        {
+          "version": "1.18.2",
+          "downloadLink": "https://ci.pufferfish.host/job/Pufferfish-1.18/72/artifact/build/libs/pufferfish-paperclip-1.18.2-R0.1-SNAPSHOT-reobf.jar"
+        },
+        {
+          "version": "1.19.4",
+          "downloadLink": "https://ci.pufferfish.host/job/Pufferfish-1.19/73/artifact/build/libs/pufferfish-paperclip-1.19.4-R0.1-SNAPSHOT-reobf.jar"
+        },
+        {
+          "version": "1.20.4",
+          "downloadLink": "https://ci.pufferfish.host/job/Pufferfish-1.20/42/artifact/build/libs/pufferfish-paperclip-1.20.4-R0.1-SNAPSHOT-reobf.jar"
+        }
+      ]
+    },
+    {
+      "name": "",
+      "versions": [
+        {
+          "version": "",
+          "downloadLink": ""
+        }
+      ]
+    },
+    {
+      "name": "Mohist",
+      "versions": [
+        {
+          "version": "1.7.10",
+          "downloadLink": "https://mohistmc.com/api/v2/projects/mohist/1.7.10/builds/36/download"
+        },
+        {
+          "version": "1.12.2",
+          "downloadLink": "https://mohistmc.com/api/v2/projects/mohist/1.12.2/builds/314/download"
+        },
+        {
+          "version": "1.16.5",
+          "downloadLink": "https://mohistmc.com/api/v2/projects/mohist/1.16.5/builds/134/download"
+        },
+        {
+          "version": "1.18.2",
+          "downloadLink": "https://mohistmc.com/api/v2/projects/mohist/1.18.2/builds/136/download"
+        },
+        {
+          "version": "1.19.2",
+          "downloadLink": "https://mohistmc.com/api/v2/projects/mohist/1.19.2/builds/97/download"
+        },
+        {
+          "version": "1.20",
+          "downloadLink": "https://mohistmc.com/api/v2/projects/mohist/1.20/builds/18/download"
+        },
+        {
+          "version": "1.20.1",
+          "downloadLink": "https://mohistmc.com/api/v2/projects/mohist/1.20.1/builds/521/download"
+        },
+        {
+          "version": "1.20.2",
+          "downloadLink": "https://mohistmc.com/api/v2/projects/mohist/1.20.2/builds/134/download"
+        }
+      ]
+    },
+    {
+      "name": "Magma",
+      "versions": [
+        {
+          "version": "1.12.2",
+          "downloadLink": "https://git.magmafoundation.org/api/v4/projects/7/packages/maven/org/magmafoundation/Magma/1.12.2-e586889b/Magma-1.12.2-e586889b.jar"
+        },
+        {
+          "version": "1.16.5",
+          "downloadLink": "https://git.magmafoundation.org/api/v4/projects/8/packages/maven/org/magmafoundation/Magma/1.16.5-36.2.39-c1c5a946/Magma-1.16.5-36.2.39-c1c5a946-server.jar"
+        },
+        {
+          "version": "1.18.2",
+          "downloadLink": "https://git.magmafoundation.org/api/v4/projects/5/packages/maven/org/magmafoundation/Magma/1.18.2-40.2.10-a9c33bb1/Magma-1.18.2-40.2.10-a9c33bb1-server.jar"
+        },
+        {
+          "version": "1.19.3",
+          "downloadLink": "https://git.magmafoundation.org/api/v4/projects/103/packages/maven/org/magmafoundation/Magma/1.19.3-44.1.23-f8d1387d/Magma-1.19.3-44.1.23-f8d1387d-server.jar"
+        }
+      ]
+    }
+  ]
+}
